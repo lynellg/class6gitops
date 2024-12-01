@@ -5,9 +5,9 @@ This is a description of my project.
 ## Example Image
 Local image:
 
-![e500](images/e500.jpeg)
+![The Black Wolf](images/e500.jpeg)
 
-![hello world](images/helloworld.png)
+![Swimming in the Chocolate Milk](images/ChocolateMilk.png)
 
 ## Text Document
 
